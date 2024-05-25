@@ -1,0 +1,2 @@
+<?php
+https://stokcoding.com/
