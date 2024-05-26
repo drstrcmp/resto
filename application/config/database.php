@@ -11,7 +11,7 @@ $db['digi-resto'] = array(
     'dbdriver'     => 'mysqli',
     'dbprefix'     => '',
     'pconnect'     => false,
-    'db_debug'     => (ENVIRONMENT !== 'production'),
+    'db_debug'     => (ENVIRONMENT !== 'user=postgres.cimeqfvbccqpguoxivjx password=#G91142049111f host=aws-0-ap-southeast-1.pooler.supabase.com port=5432 dbname=postgres'),
     'cache_on'     => false,
     'cachedir'     => '',
     'char_set'     => 'utf8',
